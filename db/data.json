@@ -1,0 +1,139 @@
+{
+    "beranda": {
+        "hero_title": "Sewa Formal Wear, Gak Perlu Beli Baru",
+        "hero_subtitle": "Tampil memukau di momen spesial dengan koleksi jas, kebaya, dan gaun premium. Kualitas butik, harga sewa bersahabat.",
+        "hero_btn_primary": "Lihat Katalog",
+        "hero_btn_secondary": "Cara Sewa",
+        "announcement": "Diskon 15% untuk Sewa Paket Wisuda Bulan Ini!"
+    },
+    "katalog": [
+        {
+            "id": 7,
+            "code": "TUX-001",
+            "category": "Jas",
+            "name": "Tuxedo",
+            "base_price": 150000,
+            "price": 150000,
+            "status": "Tersedia",
+            "size": "M",
+            "demand_level": "🟢 Permintaan Normal",
+            "image": "assets\/product_tuxedo.png"
+        },
+        {
+            "id": 8,
+            "code": "TUX-002",
+            "category": "Jas",
+            "name": "Jas Pengantin",
+            "base_price": 200000,
+            "price": 200000,
+            "status": "Tersedia",
+            "size": "M",
+            "demand_level": "🟢 Permintaan Normal",
+            "image": "assets\/product_tuxedo.png"
+        },
+        {
+            "id": 10,
+            "code": "TUX-004",
+            "category": "Jas",
+            "name": "Kemeja Formal",
+            "base_price": 300000,
+            "price": 300000,
+            "status": "Tersedia",
+            "size": "XL",
+            "demand_level": "🟢 Permintaan Normal",
+            "image": "assets\/product_tuxedo.png"
+        },
+        {
+            "id": 11,
+            "code": "TUX-005",
+            "category": "Jas",
+            "name": "VELVET",
+            "base_price": 300000,
+            "price": 300000,
+            "status": "Tersedia",
+            "size": "L",
+            "demand_level": "🟢 Permintaan Normal",
+            "image": "assets\/product_tuxedo.png"
+        },
+        {
+            "id": 12,
+            "code": "TUX-0071",
+            "category": "Jas",
+            "name": "2026-08-12",
+            "base_price": 150000,
+            "price": 150000,
+            "status": "Tersedia",
+            "size": "M",
+            "demand_level": "🟢 Permintaan Normal",
+            "image": "assets\/product_tuxedo.png"
+        },
+        {
+            "id": 13,
+            "code": "TUX-021",
+            "category": "Jas",
+            "name": "2026-08-10",
+            "base_price": 150000,
+            "price": 150000,
+            "status": "Tersedia",
+            "size": "M",
+            "demand_level": "🟢 Permintaan Normal",
+            "image": "assets\/product_tuxedo.png"
+        },
+        {
+            "id": 14,
+            "code": "",
+            "category": "Jas",
+            "name": "2026-08-09",
+            "base_price": 150000,
+            "price": 150000,
+            "status": "Tersedia",
+            "size": "M",
+            "demand_level": "🟢 Permintaan Normal",
+            "image": "assets\/product_tuxedo.png"
+        },
+        {
+            "id": 15,
+            "code": "TUX-033",
+            "category": "Jas",
+            "name": "2026-08-09",
+            "base_price": 150000,
+            "price": 150000,
+            "status": "Tersedia",
+            "size": "M",
+            "demand_level": "🟢 Permintaan Normal",
+            "image": "assets\/product_tuxedo.png"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Project Manager",
+            "email": "pm.lead@functionalelegance.com",
+            "phone": "081234567890",
+            "size": "L",
+            "role": "PM \/ Reviewer",
+            "registered_at": "2026-08-10",
+            "status": "Aktif"
+        },
+        {
+            "id": 2,
+            "name": "John Doe",
+            "email": "user@example.com",
+            "phone": "089876543210",
+            "size": "M",
+            "role": "Customer",
+            "registered_at": "2026-08-09",
+            "status": "Aktif"
+        },
+        {
+            "id": 3,
+            "name": "Siti Rahma",
+            "email": "siti.rahma@email.com",
+            "phone": "081122334455",
+            "size": "S",
+            "role": "Customer",
+            "registered_at": "2026-08-08",
+            "status": "Aktif"
+        }
+    ]
+}
