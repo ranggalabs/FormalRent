@@ -1,10 +1,20 @@
-# OS generated files
-.DS_Store
-Thumbs.db
+# Dependencies
+node_modules/
+.venv/
+env/
 
-# IDE / Editor files
+# Environment Variables
+.env
+.env.local
+
+# Build output
+dist/
+build/
+.next/
+
+# IDE / OS / Temporary files
 .vscode/
 .idea/
-
-# Temporary files
+.DS_Store
+Thumbs.db
 *.log
