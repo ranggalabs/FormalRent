@@ -12,6 +12,17 @@
   2. **Anggota Tim Bansos AI** — *UI/UX & Database Architecture*
 * **Nama Project**: FormalWear (FormalRent)
 
+## 🔑 Akun Login Pengujian (Admin & User / Anggota)
+
+Gunakan kredensial berikut untuk melakukan pengujian login sesuai hak akses masing-masing role:
+
+| Role | Nama Pengguna | Email Login | Password | Hak Akses & Keterangan |
+|---|---|---|---|---|
+| 👑 **Admin** | Admin Utama | `admin@formalwear.id` | `password123` | Full Access: CRUD Unit, CRUD Kategori, CRUD User, Process Pengembalian Unit, & Cetak Laporan Peminjaman. |
+| 👤 **User (Anggota)** | Rangga Pratama | `rangga@mail.com` | `password123` | Anggota Access: Sewa Max 2 Unit, Max 5 Hari, Edit Profil Sendiri, & Lihat List Pinjaman Sendiri. |
+| 👤 **User (Anggota)** | Siti Aisyah | `siti@mail.com` | `password123` | Anggota Access: Sewa Max 2 Unit, Max 5 Hari, Edit Profil Sendiri, & Lihat List Pinjaman Sendiri. |
+| 👤 **User (Anggota)** | Budi Santoso | `budi@mail.com` | `password123` | Anggota Access: Sewa Max 2 Unit, Max 5 Hari, Edit Profil Sendiri, & Lihat List Pinjaman Sendiri. |
+
 ---
 
 ## 📽️ Demo Penjelasan & Skema Database
@@ -260,6 +271,10 @@ php -S localhost:8000
 http://localhost:8000
 ```
 
-### Kredensial Pengujian Default:
-* **Admin**: `admin@formalwear.id` | Password: `password123`
-* **Anggota**: `rangga@mail.com` | Password: `password123`
+### 🔑 Daftar Kredensial Pengujian (Login Credentials):
+
+* 👑 **Admin**: Email `admin@formalwear.id` | Password `password123`
+* 👤 **Anggota 1**: Email `rangga@mail.com` | Password `password123`
+* 👤 **Anggota 2**: Email `siti@mail.com` | Password `password123`
+* 👤 **Anggota 3**: Email `budi@mail.com` | Password `password123`
+
